@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "Utils",
+    "pageId": "Zip Food Delivery",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Zip Food Delivery_Utils",
+  "deleted": false,
+  "gitSyncId": "64c2e15186c95379d4c29826_64c46e0b2d8f7a159ce64dc6"
+}
